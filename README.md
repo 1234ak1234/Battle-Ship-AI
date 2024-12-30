@@ -1,24 +1,24 @@
 Battleship AI Game
-A Python-based implementation of the classic Battleship game featuring an intelligent AI opponent. This project combines traditional gameplay with smart AI targeting strategies for an engaging player experience.
+A Python-based implementation of the classic Battleship game featuring an intelligent AI opponent. This project combines traditional gameplay with smart AI targeting strategies for an engaging player experience.<br>
 Features
 <br>
-Interactive graphical interface using Pygame
-Smart AI opponent with hunt and target modes
-Real-time hit/miss feedback
-Ship placement visualization
-Visual animations for game events
-Two-board display system (Defensive & Attacking boards)
-Start page with game information
+Interactive graphical interface using Pygame<br>
+Smart AI opponent with hunt and target modes<br>
+Real-time hit/miss feedback<br>
+Ship placement visualization<br>
+Visual animations for game events<br>
+Two-board display system (Defensive & Attacking boards)<br>
+Start page with game information<br>
 
 Requirements
 
-Python 3.x
-Pygame library
-Required image files:
+Python 3.x<br>
+Pygame library<br>
+Required image files:<br>
 
-ship1.png (Carrier)
-ship2.png (Battleship)
-ship3.png (Cruiser)
-ship4.png (Submarine)
-ship5.png (Destroyer)
+ship1.png (Carrier)<br>
+ship2.png (Battleship)<br>
+ship3.png (Cruiser)<br>
+ship4.png (Submarine)<br>
+ship5.png (Destroyer)<br>
 
